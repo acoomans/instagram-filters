@@ -5,6 +5,12 @@ Instagram-like image filters.
 
 Can be used in conjunction with the [instagram-client](https://bitbucket.org/acoomans/instagram-client) to upload the image after applying a filter.
 
+## Dependencies
+
+Instagram-filters depends on ImageMagick, which can be installed on a Mac with brew:
+
+	brew install imagemagick
+
 ## Install
 
 	python setup.py install
