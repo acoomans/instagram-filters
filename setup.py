@@ -5,8 +5,9 @@ config = {
 	'version': '0.1',
 	'description': 'Instagram-like image filters',
 	'license': 'LICENSE.txt',
-	'url': '',
+	'url': 'https://github.com/acoomans/instagram-filters',
 	'author': 'Arnaud Coomans',
+	'author_email': 'arnaud.coomans@gmail.com',
 	'install_requires': ['PIL'],
 	'packages': ['instagram_filters', 'instagram_filters.filters', 'instagram_filters.decorations'],
 	'data_files' : [
